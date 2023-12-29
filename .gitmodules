@@ -16,9 +16,9 @@
 [submodule "libs/zkllvm-transpiler"]
 	path = libs/transpiler
 	url = https://github.com/NilFoundation/zkllvm-transpiler.git
-[submodule "libs/zkllvm-rslang"]
-	path = libs/rslang
-	url = https://github.com/NilFoundation/zkllvm-rslang.git
+; [submodule "libs/zkllvm-rslang"]
+; 	path = libs/rslang
+; 	url = https://github.com/NilFoundation/zkllvm-rslang.git
 [submodule "libs/crypto3"]
 	path = libs/crypto3
 	url = https://github.com/NilFoundation/crypto3.git
